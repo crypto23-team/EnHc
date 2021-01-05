@@ -122,7 +122,7 @@ $ curl --location --request POST 'localhost:9650/ext/P' \
 
 > Get Node ID
 ```bash
-curl -X POST --data '{
+$ curl -X POST --data '{
     "jsonrpc":"2.0",
     "id"     :1,
     "method" :"info.getNodeID"
