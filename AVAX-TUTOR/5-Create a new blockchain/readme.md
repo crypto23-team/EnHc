@@ -14,8 +14,9 @@
 > First Terminal
 
 ```bash
- cd $GOPATH/src/github.com/ava-labs/avalanchego
- ./build/avalanchego --network-id=fuji
+$ cd $GOPATH/src/github.com/ava-labs/avash
+$ ./avash
+$ runscript scripts/five_node_staking.lua
 
 ```
 > Second Terminal
