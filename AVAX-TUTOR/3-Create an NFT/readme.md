@@ -21,7 +21,7 @@ $ curl -X POST --data '{
 ```
 > Create Keystore 
 ```bash
-curl -X POST --data '{
+$ curl -X POST --data '{
     "jsonrpc": "2.0",
     "id": 1,
     "method": "keystore.createUser",
@@ -33,7 +33,7 @@ curl -X POST --data '{
 ```
 > Create  Address | (X-Chain)
 ```bash
-curl -X POST --data '{
+$ curl -X POST --data '{
     "jsonrpc":"2.0",
     "id"     :2,
     "method" :"avm.createAddress",
