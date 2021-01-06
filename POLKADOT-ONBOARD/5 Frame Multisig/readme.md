@@ -6,11 +6,18 @@
 > [Polka Js Script](https://github.com/crypto23-team/EnHc/tree/main/POLKADOT-ONBOARD/5%20Frame%20Multisig/script)
 
 <p align="center">
-   <span text="bold"> Script Js</span>
+   
+   
+   
+  > Script Js
 <img src="./multi_terminal.png">
+
+
   
   > Frontend
 <img src="./multi_frontend.png">
+
+
 
   > Polkajs
 <img src="./multi_polkajs.png">
