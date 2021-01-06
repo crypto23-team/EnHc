@@ -1,0 +1,13 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "Cr23": {
+      " Team Name": "Vec<u8>",
+      " First Member": "Vec<u8>",
+      " Second Member": "Vec<u8>",
+      " Third Member": "Vec<u8>"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
