@@ -7,6 +7,8 @@
 
 <p align="center">
 <img src="./multi_terminal.png">
+  
 <img src="./multi_frontend.png">
+
 <img src="./multi_polkajs.png">
 </p>
