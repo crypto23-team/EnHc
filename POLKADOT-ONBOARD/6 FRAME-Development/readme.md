@@ -1,9 +1,7 @@
-<p align="center">
+
+### [Substrate-Node-Template](./Substrate-Node-Template)
  
-[Substrate-Node-Template](./Substrate-Node-Template)
- 
-[Substrate-Front-End-Template](./Substrate-Front-End-Template)
-  </p>
+### [Substrate-Front-End-Template](./Substrate-Front-End-Template)
   
 <p align="center">
  
