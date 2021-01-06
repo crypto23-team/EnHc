@@ -1,8 +1,4 @@
-## [LIVE WEBSITE Frontend](https://forteve-frontend.web.app/)
-#### ScreenShoot
-<p align=center>
-  <img src=./ss/pr.png>
-</p>
+## [DEMO WEBSITE Frontend](https://frontend-polkadot.web.app/)
   
   
 # Substrate Front End Template
