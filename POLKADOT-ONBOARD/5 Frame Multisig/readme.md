@@ -6,7 +6,7 @@
 > [Polka Js Script](https://github.com/crypto23-team/EnHc/tree/main/POLKADOT-ONBOARD/5%20Frame%20Multisig/script)
 
 <p align="center">
-  > Terminal
+   <span text="bold"> Script Js</span>
 <img src="./multi_terminal.png">
   
   > Frontend
