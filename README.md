@@ -31,4 +31,4 @@ and more.
 
 [5-Frame-Multisig](https://github.com/crypto23-team/EnHc/tree/main/POLKADOT-ONBOARD/5%20Frame%20Multisig)
 
-[5-Frame-Development](https://github.com/crypto23-team/EnHc/tree/main/POLKADOT-ONBOARD/6%20FRAME-Development)
+[6-Frame-Development](https://github.com/crypto23-team/EnHc/tree/main/POLKADOT-ONBOARD/6%20FRAME-Development)
